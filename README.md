@@ -13,7 +13,7 @@
 Мне нравится делать сайты аккуратными, логичными и современными.
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/78/01/e8/7801e8c3976a91489510a5f7850bc1a0.gif" alt="Фрирен SIP GIF" width="300"/>
+  <img src="https://wiki.muhro.eu/images/3/35/Miyu_frieren-read.gif" alt="Фрирен SIP GIF" width="300"/>
 </p>
 
 ---
