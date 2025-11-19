@@ -12,7 +12,7 @@
 Мне нравится делать сайты аккуратными, логичными и современными.
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/FkELNdTE-l8AAAAd/frieren-sip-frieren.gif" alt="Фрирен SIP GIF" width="150"/>
+  <img src="https://media1.tenor.com/m/FkELNdTE-l8AAAAd/frieren-sip-frieren.gif" alt="Фрирен SIP GIF" width="450"/>
 </p>
 
 ---
