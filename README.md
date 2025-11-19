@@ -67,3 +67,6 @@
 ---
 
 <p align="center"><b>Спасибо, что заглянул на мой GitHub!</b></p>
+<p align="center">
+  <img src="https://media1.tenor.com/m/Y5wk2vrb8DcAAAAC/frieren-frieren-anime.gif" alt="Фрирен SIP GIF" width="300"/>
+</p>
