@@ -3,6 +3,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=36BCF7&lines=HTML+%2F+CSS+%2F+JavaScript;Начинающий+Frontend+разработчик;Учусь+и+создаю+проекты;Хочу+стать+профессионалом" />
 </p>
+<p align="center">
+  <img src="https://wiki.muhro.eu/images/3/35/Miyu_frieren-read.gif" alt="Фрирен SIP GIF" width="300"/>
+</p>
 
 ---
 
