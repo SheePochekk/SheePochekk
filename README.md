@@ -13,7 +13,7 @@
 Мне нравится делать сайты аккуратными, логичными и современными.
 
 <p align="center">
-  <img src="https://pouch.jumpshare.com/preview/S8bKe64nqDhLngBmm-geOvySiv3gniZsML4HPvFOplY6ZSsQkfVFg8c-jyyaimPMdUNzub0Bq5p31qFlC2QtpUoHSssrQAgRYNjhmheFjVw" alt="Фрирен SIP GIF" width="450"/>
+  <img src="https://pouch.jumpshare.com/preview/S8bKe64nqDhLngBmm-geOvySiv3gniZsML4HPvFOplY6ZSsQkfVFg8c-jyyaimPMdUNzub0Bq5p31qFlC2QtpUoHSssrQAgRYNjhmheFjVw.gif" alt="Фрирен SIP GIF" width="450"/>
 </p>
 
 ---
