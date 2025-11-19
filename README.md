@@ -12,6 +12,10 @@
 
 Мне нравится делать сайты аккуратными, логичными и современными.
 
+<p align="center">
+  <img src="https://c.tenor.com/UZ5RlmjYlzcAAAAC/freeren-freeren-the-elf.gif" alt="Фрирен аниме GIF" width="300"/>
+</p>
+
 ---
 
 ## 🚀 Мой стек
@@ -46,7 +50,6 @@
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=SheePochek&show_icons=true&theme=tokyonight" />
   <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SheePochek&layout=compact&theme=tokyonight" />
 </p>
-
 
 ---
 
